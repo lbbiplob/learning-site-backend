@@ -5,6 +5,7 @@
       "id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Business Card Design",
+      "price": 59,
       "teacher": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
@@ -24,6 +25,7 @@
       "id": "02",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "title": "T-shirt Design",
+      "price": 69,
       "teacher": {
         "name": "Jennifer Wood",
         "published_date": "2022-08-30 16:38:45",
@@ -42,6 +44,7 @@
       "id": "03",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "title": "Poster Design",
+      "price": 39,
       "teacher": {
         "name": "Jennifer Wood",
         "published_date": "2022-08-30 16:38:45",
@@ -61,6 +64,7 @@
       "id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Social media Banner Design",
+      "price": 59,
       "teacher": {
         "name": "system",
         "published_date": "2022-08-24 23:15:00",
@@ -79,6 +83,7 @@
       "id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Advance Photoshop CC",
+      "price": 49,
       "teacher": {
         "name": "BIplab Hossain",
         "published_date": "2022-08-24 23:15:00",
@@ -98,6 +103,7 @@
       "id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "title": "Advance Illustrator CC",
+      "price": 39,
       "teacher": {
         "name": null,
         "published_date": "2022-08-30 15:00:04",
